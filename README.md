@@ -7,7 +7,7 @@ Developer Freelancer
 
 Computer Science undergraduate student in Estacio.
 
-- 🔭 I’m currently studying on javascript, React.js.
+- 🔭 I’m currently studying javascript, React.js.
 
 
 # 📫 How to reach me:
