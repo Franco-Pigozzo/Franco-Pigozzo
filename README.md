@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Franco-Pigozzo/Franco-Pigozzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+programmer for 2 years.
 
-Here are some ideas to get you started:
+Developer Freelancer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science undergraduate student in Estacio.
+
+- 🔭 I’m currently studying on javascript, React.js.
+
+
+# 📫 How to reach me:
+- [Linkedin](https://www.linkedin.com/in/luizfernandofp)
