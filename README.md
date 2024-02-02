@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## About Me:
-programmer for 2 years.
+programmer for 3 years.
 
-Developer Freelancer
+Back-End Developer
 
 Computer Science undergraduate student in Estacio.
 
